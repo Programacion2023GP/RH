@@ -33,7 +33,6 @@ export async function getDB(){
     try {
         const request = await fetch('../BD/db.json');
         const response = await request.json();
-        console.log(response)
 
         BD = response
         return response
@@ -119,5 +118,4 @@ export function addItemJson(descripcion,tipoconcepto){
         tipoconcepto,
         descripcion
     })
-    console.log(BD)
 }

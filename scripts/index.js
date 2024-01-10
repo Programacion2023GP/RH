@@ -54,7 +54,6 @@ fileInput.addEventListener('change', async (event) => {
                         if (descripcion.length > 0) {
                             myData.push({tipoconcepto:'N',descripcion:cell.value})
                             addItemJson(cell.value, 'N');
-                            console.warn("se agrego",cell.value)
                         }
                         
                         titles.push(cell.value)   

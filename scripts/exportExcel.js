@@ -6,7 +6,6 @@ export function exportToExcel(data,mySwal,title) {
     const wbout = XLSX.write(wb, { bookType: 'xlsx', type: 'array' });
     const blob = new Blob([wbout], { type: 'application/octet-stream' });
     const fileName = `${title}-WEB.xlsx`;   
-    console.log(title);
     saveAs(blob, fileName); 
     mySwal.close();
 }
