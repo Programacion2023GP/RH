@@ -13,9 +13,7 @@ let mySwal = undefined
 let myData = undefined
 init()
 async function init() {
-    console.log("cargar data...");
     myData = await getDB() 
-  console.log("ya cargo");
 }
 const fileInput = document.getElementById('fileInput');
 fileInput.addEventListener('change', async (event) => {
