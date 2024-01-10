@@ -1,0 +1,1498 @@
+[
+   
+    {
+      "numeroconcepto": 99,
+      "tipoconcepto": "D",
+      "descripcion": "Ajuste al neto"
+    },
+    {
+      "numeroconcepto": 1,
+      "tipoconcepto": "P",
+      "descripcion": "Sueldo"
+    },
+    {
+      "numeroconcepto": 3,
+      "tipoconcepto": "P",
+      "descripcion": "Septimo dia"
+    },
+    {
+      "numeroconcepto": 4,
+      "tipoconcepto": "P",
+      "descripcion": "Horas extras"
+    },
+    {
+      "numeroconcepto": 5,
+      "tipoconcepto": "P",
+      "descripcion": "Destajos"
+    },
+    {
+      "numeroconcepto": 6,
+      "tipoconcepto": "P",
+      "descripcion": "Comisiones"
+    },
+    {
+      "numeroconcepto": 7,
+      "tipoconcepto": "P",
+      "descripcion": "Incentivo productividad"
+    },
+    {
+      "numeroconcepto": 8,
+      "tipoconcepto": "P",
+      "descripcion": "Incentivos (demoras)"
+    },
+    {
+      "numeroconcepto": 9,
+      "tipoconcepto": "P",
+      "descripcion": "Incapacidad pagada empresa"
+    },
+    {
+      "numeroconcepto": 10,
+      "tipoconcepto": "P",
+      "descripcion": "Prima dominical"
+    },
+    {
+      "numeroconcepto": 11,
+      "tipoconcepto": "P",
+      "descripcion": "Dia festivo / descanso"
+    },
+    {
+      "numeroconcepto": 12,
+      "tipoconcepto": "P",
+      "descripcion": "Gratificacion Especial"
+    },
+    {
+      "numeroconcepto": 13,
+      "tipoconcepto": "P",
+      "descripcion": "Compensacion"
+    },
+    {
+      "numeroconcepto": 14,
+      "tipoconcepto": "P",
+      "descripcion": "Premios eficiencia"
+    },
+    {
+      "numeroconcepto": 15,
+      "tipoconcepto": "P",
+      "descripcion": "Bono puntualidad"
+    },
+    {
+      "numeroconcepto": 16,
+      "tipoconcepto": "P",
+      "descripcion": "Retroactivo"
+    },
+    {
+      "numeroconcepto": 17,
+      "tipoconcepto": "P",
+      "descripcion": "Ajuste en sueldos"
+    },
+    {
+      "numeroconcepto": 18,
+      "tipoconcepto": "P",
+      "descripcion": "Anticipo de sueldos"
+    },
+    {
+      "numeroconcepto": 19,
+      "tipoconcepto": "P",
+      "descripcion": "Vacaciones a tiempo"
+    },
+    {
+      "numeroconcepto": 20,
+      "tipoconcepto": "P",
+      "descripcion": "Prima de vacaciones a tiempo"
+    },
+    {
+      "numeroconcepto": 21,
+      "tipoconcepto": "P",
+      "descripcion": "Vacaciones reportadas $"
+    },
+    {
+      "numeroconcepto": 22,
+      "tipoconcepto": "P",
+      "descripcion": "Prima de vacaciones reportada $"
+    },
+    {
+      "numeroconcepto": 23,
+      "tipoconcepto": "P",
+      "descripcion": "Dias de vacaciones"
+    },
+    {
+      "numeroconcepto": 24,
+      "tipoconcepto": "P",
+      "descripcion": "Aguinaldo"
+    },
+    {
+      "numeroconcepto": 25,
+      "tipoconcepto": "P",
+      "descripcion": "Reparto de utilidades"
+    },
+    {
+      "numeroconcepto": 26,
+      "tipoconcepto": "P",
+      "descripcion": "Indemnizacion"
+    },
+    {
+      "numeroconcepto": 27,
+      "tipoconcepto": "P",
+      "descripcion": "Separacion Unica"
+    },
+    {
+      "numeroconcepto": 29,
+      "tipoconcepto": "P",
+      "descripcion": "Prima de antiguedad"
+    },
+    {
+      "numeroconcepto": 31,
+      "tipoconcepto": "P",
+      "descripcion": "Fondo ahorro empresa"
+    },
+    {
+      "numeroconcepto": 32,
+      "tipoconcepto": "P",
+      "descripcion": "Despensa Mon. Elec."
+    },
+    {
+      "numeroconcepto": 33,
+      "tipoconcepto": "P",
+      "descripcion": "Deporte y cultura"
+    },
+    {
+      "numeroconcepto": 35,
+      "tipoconcepto": "P",
+      "descripcion": "Anticipo vacaciones Percepcion"
+    },
+    {
+      "numeroconcepto": 36,
+      "tipoconcepto": "P",
+      "descripcion": "Destajo - sueldo"
+    },
+    {
+      "numeroconcepto": 37,
+      "tipoconcepto": "P",
+      "descripcion": "Comision sueldo"
+    },
+    {
+      "numeroconcepto": 52,
+      "tipoconcepto": "D",
+      "descripcion": "I.M.S.S."
+    },
+    {
+      "numeroconcepto": 53,
+      "tipoconcepto": "D",
+      "descripcion": "I.E."
+    },
+    {
+      "numeroconcepto": 54,
+      "tipoconcepto": "D",
+      "descripcion": "Cuota sindical"
+    },
+    {
+      "numeroconcepto": 56,
+      "tipoconcepto": "D",
+      "descripcion": "Caja de ahorro"
+    },
+    {
+      "numeroconcepto": 57,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo caja de ahorro"
+    },
+    {
+      "numeroconcepto": 58,
+      "tipoconcepto": "D",
+      "descripcion": "Intereses ptmo. ahorro"
+    },
+    {
+      "numeroconcepto": 59,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo infonavit (PORC)"
+    },
+    {
+      "numeroconcepto": 60,
+      "tipoconcepto": "D",
+      "descripcion": "Intereses ptmo. Infonavit"
+    },
+    {
+      "numeroconcepto": 61,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo FONACOT"
+    },
+    {
+      "numeroconcepto": 62,
+      "tipoconcepto": "D",
+      "descripcion": "Fonacot revolvente"
+    },
+    {
+      "numeroconcepto": 63,
+      "tipoconcepto": "D",
+      "descripcion": "Intereses ptmo. fonacot"
+    },
+    {
+      "numeroconcepto": 64,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo empresa"
+    },
+    {
+      "numeroconcepto": 65,
+      "tipoconcepto": "D",
+      "descripcion": "Intereses ptmo. empresa"
+    },
+    {
+      "numeroconcepto": 66,
+      "tipoconcepto": "D",
+      "descripcion": "Anticipo sueldo"
+    },
+    {
+      "numeroconcepto": 67,
+      "tipoconcepto": "D",
+      "descripcion": "Fondo de ahorro"
+    },
+    {
+      "numeroconcepto": 69,
+      "tipoconcepto": "D",
+      "descripcion": "Reintegracion"
+    },
+    {
+      "numeroconcepto": 70,
+      "tipoconcepto": "D",
+      "descripcion": "Deduccion general"
+    },
+    {
+      "numeroconcepto": 72,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo fondo de ahorro"
+    },
+    {
+      "numeroconcepto": 73,
+      "tipoconcepto": "D",
+      "descripcion": "Intereses ptmo. fondo de ahorro"
+    },
+    {
+      "numeroconcepto": 74,
+      "tipoconcepto": "D",
+      "descripcion": "Anticipo vacaciones"
+    },
+    {
+      "numeroconcepto": 87,
+      "tipoconcepto": "D",
+      "descripcion": "Aportacion voluntaria Infonavit"
+    },
+    {
+      "numeroconcepto": 88,
+      "tipoconcepto": "D",
+      "descripcion": "Aportacion voluntaria SAR"
+    },
+    {
+      "numeroconcepto": 89,
+      "tipoconcepto": "O",
+      "descripcion": "2% Fondo retiro SAR (8)"
+    },
+    {
+      "numeroconcepto": 90,
+      "tipoconcepto": "O",
+      "descripcion": "2% Impuesto estatal"
+    },
+    {
+      "numeroconcepto": 91,
+      "tipoconcepto": "D",
+      "descripcion": "Subsidio acreditable"
+    },
+    {
+      "numeroconcepto": 92,
+      "tipoconcepto": "D",
+      "descripcion": "Subsidio no acreditable"
+    },
+    {
+      "numeroconcepto": 93,
+      "tipoconcepto": "O",
+      "descripcion": "Riesgo de trabajo (9)"
+    },
+    {
+      "numeroconcepto": 94,
+      "tipoconcepto": "D",
+      "descripcion": "Sobregiro"
+    },
+    {
+      "numeroconcepto": 95,
+      "tipoconcepto": "O",
+      "descripcion": "1% Educacion empresa"
+    },
+    {
+      "numeroconcepto": 96,
+      "tipoconcepto": "O",
+      "descripcion": "I.M.S.S. empresa"
+    },
+    {
+      "numeroconcepto": 97,
+      "tipoconcepto": "O",
+      "descripcion": "Infonavit empresa"
+    },
+    {
+      "numeroconcepto": 98,
+      "tipoconcepto": "O",
+      "descripcion": "Guarderia I.M.S.S. (7)"
+    },
+    {
+      "numeroconcepto": 5,
+      "tipoconcepto": "D",
+      "descripcion": "Ret. Inv. Y Vida"
+    },
+    {
+      "numeroconcepto": 6,
+      "tipoconcepto": "D",
+      "descripcion": "Ret. Cesantia"
+    },
+    {
+      "numeroconcepto": 11,
+      "tipoconcepto": "D",
+      "descripcion": "Ret. Enf. y Mat. obrero"
+    },
+    {
+      "numeroconcepto": 5,
+      "tipoconcepto": "O",
+      "descripcion": "Invalidez y Vida"
+    },
+    {
+      "numeroconcepto": 6,
+      "tipoconcepto": "O",
+      "descripcion": "Cesantia y Vejez"
+    },
+    {
+      "numeroconcepto": 49,
+      "tipoconcepto": "D",
+      "descripcion": "I.S.R. (sp)"
+    },
+    {
+      "numeroconcepto": 45,
+      "tipoconcepto": "D",
+      "descripcion": "I.S.R. (mes)"
+    },
+    {
+      "numeroconcepto": 44,
+      "tipoconcepto": "D",
+      "descripcion": "I.S.R. (anual)"
+    },
+    {
+      "numeroconcepto": 39,
+      "tipoconcepto": "D",
+      "descripcion": "Subsidio al Empleo (sp)"
+    },
+    {
+      "numeroconcepto": 35,
+      "tipoconcepto": "D",
+      "descripcion": "Subs al Empleo (mes)"
+    },
+    {
+      "numeroconcepto": 34,
+      "tipoconcepto": "D",
+      "descripcion": "Subsidio al Empleo (anual)"
+    },
+    {
+      "numeroconcepto": 7,
+      "tipoconcepto": "O",
+      "descripcion": "Enf. y Mat. Patron"
+    },
+    {
+      "numeroconcepto": 477,
+      "tipoconcepto": "D",
+      "descripcion": "I.S.R."
+    },
+    {
+      "numeroconcepto": 131,
+      "tipoconcepto": "P",
+      "descripcion": "Fondo de ahorro Empresa"
+    },
+    {
+      "numeroconcepto": 157,
+      "tipoconcepto": "D",
+      "descripcion": "Ptmo Caja de Ahorro 2"
+    },
+    {
+      "numeroconcepto": 158,
+      "tipoconcepto": "D",
+      "descripcion": "Ptmo. Caja de ahorro 3"
+    },
+    {
+      "numeroconcepto": 159,
+      "tipoconcepto": "D",
+      "descripcion": "Ptmo. Caja de ahorro 4"
+    },
+    {
+      "numeroconcepto": 164,
+      "tipoconcepto": "D",
+      "descripcion": "Ptmo. empresa2"
+    },
+    {
+      "numeroconcepto": 165,
+      "tipoconcepto": "D",
+      "descripcion": "Ptmo. empresa3"
+    },
+    {
+      "numeroconcepto": 166,
+      "tipoconcepto": "D",
+      "descripcion": "Ptmo. empresa4"
+    },
+    {
+      "numeroconcepto": 172,
+      "tipoconcepto": "D",
+      "descripcion": "Ptmo. fondo de ahorro2"
+    },
+    {
+      "numeroconcepto": 173,
+      "tipoconcepto": "D",
+      "descripcion": "Ptmo. fondo de ahorro3"
+    },
+    {
+      "numeroconcepto": 174,
+      "tipoconcepto": "D",
+      "descripcion": "Ptmo. fondo de ahorro4"
+    },
+    {
+      "numeroconcepto": 476,
+      "tipoconcepto": "D",
+      "descripcion": "Subs al Empleo acreditado_"
+    },
+    {
+      "numeroconcepto": 41,
+      "tipoconcepto": "D",
+      "descripcion": "I.S.R. antes de Subs al Empleo"
+    },
+    {
+      "numeroconcepto": 33,
+      "tipoconcepto": "D",
+      "descripcion": "ISR retenido de ejercicio anterior"
+    },
+    {
+      "numeroconcepto": 101,
+      "tipoconcepto": "D",
+      "descripcion": "I.S.R. finiquito"
+    },
+    {
+      "numeroconcepto": 175,
+      "tipoconcepto": "D",
+      "descripcion": "Ptmo. fondo de ahorro5"
+    },
+    {
+      "numeroconcepto": 176,
+      "tipoconcepto": "D",
+      "descripcion": "Pension Alimen 2"
+    },
+    {
+      "numeroconcepto": 55,
+      "tipoconcepto": "D",
+      "descripcion": "I.S.R. a compensar"
+    },
+    {
+      "numeroconcepto": 292,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo Infonavit (vsm)__"
+    },
+    {
+      "numeroconcepto": 14,
+      "tipoconcepto": "D",
+      "descripcion": "Seguro de vivienda Infonavit"
+    },
+    {
+      "numeroconcepto": 239,
+      "tipoconcepto": "D",
+      "descripcion": "ispt comp"
+    },
+    {
+      "numeroconcepto": 177,
+      "tipoconcepto": "D",
+      "descripcion": "Prestaciones Sociales y Medicas"
+    },
+    {
+      "numeroconcepto": 132,
+      "tipoconcepto": "P",
+      "descripcion": "Despensa comp"
+    },
+    {
+      "numeroconcepto": 133,
+      "tipoconcepto": "P",
+      "descripcion": "Horas Ex"
+    },
+    {
+      "numeroconcepto": 134,
+      "tipoconcepto": "P",
+      "descripcion": "PRIMA VAC"
+    },
+    {
+      "numeroconcepto": 135,
+      "tipoconcepto": "P",
+      "descripcion": "PRIMA VAC QUINCENA"
+    },
+    {
+      "numeroconcepto": 136,
+      "tipoconcepto": "P",
+      "descripcion": "Turno Ext"
+    },
+    {
+      "numeroconcepto": 137,
+      "tipoconcepto": "P",
+      "descripcion": "Permiso c/goce"
+    },
+    {
+      "numeroconcepto": 138,
+      "tipoconcepto": "P",
+      "descripcion": "Permiso Economico"
+    },
+    {
+      "numeroconcepto": 139,
+      "tipoconcepto": "P",
+      "descripcion": "Incapacidad"
+    },
+    {
+      "numeroconcepto": 140,
+      "tipoconcepto": "P",
+      "descripcion": "Ayuda a Pasaje"
+    },
+    {
+      "numeroconcepto": 141,
+      "tipoconcepto": "P",
+      "descripcion": "Otras Percepciones"
+    },
+    {
+      "numeroconcepto": 143,
+      "tipoconcepto": "P",
+      "descripcion": "Apoyo Subsemun"
+    },
+    {
+      "numeroconcepto": 179,
+      "tipoconcepto": "D",
+      "descripcion": "cuota especial"
+    },
+    {
+      "numeroconcepto": 180,
+      "tipoconcepto": "D",
+      "descripcion": "Pension Alimen."
+    },
+    {
+      "numeroconcepto": 181,
+      "tipoconcepto": "D",
+      "descripcion": "FAMSA-01"
+    },
+    {
+      "numeroconcepto": 182,
+      "tipoconcepto": "D",
+      "descripcion": "FAMSA-02"
+    },
+    {
+      "numeroconcepto": 183,
+      "tipoconcepto": "D",
+      "descripcion": "FAMSA-03"
+    },
+    {
+      "numeroconcepto": 184,
+      "tipoconcepto": "D",
+      "descripcion": "FAMSA-04"
+    },
+    {
+      "numeroconcepto": 185,
+      "tipoconcepto": "D",
+      "descripcion": "FAMSA-05"
+    },
+    {
+      "numeroconcepto": 186,
+      "tipoconcepto": "D",
+      "descripcion": "FAMSA-06"
+    },
+    {
+      "numeroconcepto": 187,
+      "tipoconcepto": "D",
+      "descripcion": "FAMSA-07"
+    },
+    {
+      "numeroconcepto": 188,
+      "tipoconcepto": "D",
+      "descripcion": "FAMSA-08"
+    },
+    {
+      "numeroconcepto": 189,
+      "tipoconcepto": "D",
+      "descripcion": "FAMSA-09"
+    },
+    {
+      "numeroconcepto": 190,
+      "tipoconcepto": "D",
+      "descripcion": "FAMSA-10"
+    },
+    {
+      "numeroconcepto": 191,
+      "tipoconcepto": "D",
+      "descripcion": "FONACOT-01"
+    },
+    {
+      "numeroconcepto": 192,
+      "tipoconcepto": "D",
+      "descripcion": "FONACOT-02"
+    },
+    {
+      "numeroconcepto": 193,
+      "tipoconcepto": "D",
+      "descripcion": "FONACOT-03"
+    },
+    {
+      "numeroconcepto": 194,
+      "tipoconcepto": "D",
+      "descripcion": "FONACOT-04"
+    },
+    {
+      "numeroconcepto": 195,
+      "tipoconcepto": "D",
+      "descripcion": "FONACOT-05"
+    },
+    {
+      "numeroconcepto": 196,
+      "tipoconcepto": "D",
+      "descripcion": "FONACOT-06"
+    },
+    {
+      "numeroconcepto": 197,
+      "tipoconcepto": "D",
+      "descripcion": "FONACOT-07"
+    },
+    {
+      "numeroconcepto": 198,
+      "tipoconcepto": "D",
+      "descripcion": "FONACOT-08"
+    },
+    {
+      "numeroconcepto": 199,
+      "tipoconcepto": "D",
+      "descripcion": "FONACOT-09"
+    },
+    {
+      "numeroconcepto": 200,
+      "tipoconcepto": "D",
+      "descripcion": "FONACOT-10"
+    },
+    {
+      "numeroconcepto": 201,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo Tesoreria 1"
+    },
+    {
+      "numeroconcepto": 202,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo Tesoreria 2"
+    },
+    {
+      "numeroconcepto": 203,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo Tesoreria 3"
+    },
+    {
+      "numeroconcepto": 204,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo Tesoreria 4"
+    },
+    {
+      "numeroconcepto": 205,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo Tesoreria 5"
+    },
+    {
+      "numeroconcepto": 206,
+      "tipoconcepto": "D",
+      "descripcion": "Credi Amigo 1"
+    },
+    {
+      "numeroconcepto": 207,
+      "tipoconcepto": "D",
+      "descripcion": "Credi Amigo 2"
+    },
+    {
+      "numeroconcepto": 208,
+      "tipoconcepto": "D",
+      "descripcion": "Credito Global 1"
+    },
+    {
+      "numeroconcepto": 209,
+      "tipoconcepto": "D",
+      "descripcion": "Credito Global 2"
+    },
+    {
+      "numeroconcepto": 210,
+      "tipoconcepto": "D",
+      "descripcion": "Falta Justificada"
+    },
+    {
+      "numeroconcepto": 211,
+      "tipoconcepto": "D",
+      "descripcion": "Permiso S/Goce"
+    },
+    {
+      "numeroconcepto": 144,
+      "tipoconcepto": "P",
+      "descripcion": "Prima Dominical Q"
+    },
+    {
+      "numeroconcepto": 212,
+      "tipoconcepto": "D",
+      "descripcion": "Retencion Especial"
+    },
+    {
+      "numeroconcepto": 213,
+      "tipoconcepto": "D",
+      "descripcion": "Otras Deducciones"
+    },
+    {
+      "numeroconcepto": 218,
+      "tipoconcepto": "D",
+      "descripcion": "Descuento Caja ahorro"
+    },
+    {
+      "numeroconcepto": 215,
+      "tipoconcepto": "D",
+      "descripcion": "Deduccion extraordinaria"
+    },
+    {
+      "numeroconcepto": 145,
+      "tipoconcepto": "P",
+      "descripcion": "COMP. DIARIA"
+    },
+    {
+      "numeroconcepto": 146,
+      "tipoconcepto": "P",
+      "descripcion": "C.S."
+    },
+    {
+      "numeroconcepto": 216,
+      "tipoconcepto": "D",
+      "descripcion": "Pension Alimenticia 2"
+    },
+    {
+      "numeroconcepto": 156,
+      "tipoconcepto": "P",
+      "descripcion": "Prestaciones Sociales"
+    },
+    {
+      "numeroconcepto": 234,
+      "tipoconcepto": "P",
+      "descripcion": "Sueldo Q"
+    },
+    {
+      "numeroconcepto": 235,
+      "tipoconcepto": "P",
+      "descripcion": "Compensacion Q"
+    },
+    {
+      "numeroconcepto": 241,
+      "tipoconcepto": "D",
+      "descripcion": "Rifa"
+    },
+    {
+      "numeroconcepto": 242,
+      "tipoconcepto": "D",
+      "descripcion": "Abono orioles"
+    },
+    {
+      "numeroconcepto": 243,
+      "tipoconcepto": "D",
+      "descripcion": "Caja Libertad"
+    },
+    {
+      "numeroconcepto": 244,
+      "tipoconcepto": "D",
+      "descripcion": "Evento Charreada"
+    },
+    {
+      "numeroconcepto": 245,
+      "tipoconcepto": "D",
+      "descripcion": "otras deducciones 2"
+    },
+    {
+      "numeroconcepto": 246,
+      "tipoconcepto": "D",
+      "descripcion": "otras deducciones 3"
+    },
+    {
+      "numeroconcepto": 247,
+      "tipoconcepto": "D",
+      "descripcion": "prestamo ahorro sindicato 1"
+    },
+    {
+      "numeroconcepto": 248,
+      "tipoconcepto": "D",
+      "descripcion": "prestamo material"
+    },
+    {
+      "numeroconcepto": 249,
+      "tipoconcepto": "D",
+      "descripcion": "prestamo sindicato"
+    },
+    {
+      "numeroconcepto": 250,
+      "tipoconcepto": "D",
+      "descripcion": "Dscto. de Pmo. Caja Ahorro"
+    },
+    {
+      "numeroconcepto": 236,
+      "tipoconcepto": "P",
+      "descripcion": "Dias pendientes de Pago"
+    },
+    {
+      "numeroconcepto": 237,
+      "tipoconcepto": "P",
+      "descripcion": "Vacaciones"
+    },
+    {
+      "numeroconcepto": 229,
+      "tipoconcepto": "D",
+      "descripcion": "ZAFY"
+    },
+    {
+      "numeroconcepto": 253,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo Especial"
+    },
+    {
+      "numeroconcepto": 152,
+      "tipoconcepto": "P",
+      "descripcion": "Vacaciones S"
+    },
+    {
+      "numeroconcepto": 153,
+      "tipoconcepto": "P",
+      "descripcion": "Estimulo por antiguedad"
+    },
+    {
+      "numeroconcepto": 154,
+      "tipoconcepto": "P",
+      "descripcion": "Premio por puntualidad"
+    },
+    {
+      "numeroconcepto": 155,
+      "tipoconcepto": "P",
+      "descripcion": "Liquidacion"
+    },
+    {
+      "numeroconcepto": 233,
+      "tipoconcepto": "P",
+      "descripcion": "Compensacion EV"
+    },
+    {
+      "numeroconcepto": 232,
+      "tipoconcepto": "P",
+      "descripcion": "premio por puntualidads"
+    },
+    {
+      "numeroconcepto": 231,
+      "tipoconcepto": "D",
+      "descripcion": "tarjeta"
+    },
+    {
+      "numeroconcepto": 238,
+      "tipoconcepto": "D",
+      "descripcion": "Descuento  caja ahorro"
+    },
+    {
+      "numeroconcepto": 240,
+      "tipoconcepto": "D",
+      "descripcion": "faltas"
+    },
+    {
+      "numeroconcepto": 150,
+      "tipoconcepto": "P",
+      "descripcion": "Dias pendientes de pago1"
+    },
+    {
+      "numeroconcepto": 147,
+      "tipoconcepto": "P",
+      "descripcion": "Sueldos ev."
+    },
+    {
+      "numeroconcepto": 148,
+      "tipoconcepto": "P",
+      "descripcion": "Guarderias"
+    },
+    {
+      "numeroconcepto": 149,
+      "tipoconcepto": "P",
+      "descripcion": "Sueldo NR"
+    },
+    {
+      "numeroconcepto": 151,
+      "tipoconcepto": "P",
+      "descripcion": "Compensacion exporadica"
+    },
+    {
+      "numeroconcepto": 214,
+      "tipoconcepto": "D",
+      "descripcion": "Deducc de gastos y comp"
+    },
+    {
+      "numeroconcepto": 217,
+      "tipoconcepto": "D",
+      "descripcion": "Tarjeta Despensa"
+    },
+    {
+      "numeroconcepto": 219,
+      "tipoconcepto": "D",
+      "descripcion": "material para construccion"
+    },
+    {
+      "numeroconcepto": 220,
+      "tipoconcepto": "D",
+      "descripcion": "Terreno Morelos"
+    },
+    {
+      "numeroconcepto": 221,
+      "tipoconcepto": "D",
+      "descripcion": "Sancion Sindical"
+    },
+    {
+      "numeroconcepto": 222,
+      "tipoconcepto": "D",
+      "descripcion": "Ahorro sindicato"
+    },
+    {
+      "numeroconcepto": 223,
+      "tipoconcepto": "D",
+      "descripcion": "Cuota ingreso sindicato"
+    },
+    {
+      "numeroconcepto": 224,
+      "tipoconcepto": "D",
+      "descripcion": "pretamo flores"
+    },
+    {
+      "numeroconcepto": 225,
+      "tipoconcepto": "D",
+      "descripcion": "prestamo material1"
+    },
+    {
+      "numeroconcepto": 226,
+      "tipoconcepto": "D",
+      "descripcion": "Desc caja ahorro"
+    },
+    {
+      "numeroconcepto": 227,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo Ahorro sindicato"
+    },
+    {
+      "numeroconcepto": 228,
+      "tipoconcepto": "D",
+      "descripcion": "Faltas1"
+    },
+    {
+      "numeroconcepto": 230,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo ahorro sindicato 2"
+    },
+    {
+      "numeroconcepto": 251,
+      "tipoconcepto": "D",
+      "descripcion": "FAlta injus"
+    },
+    {
+      "numeroconcepto": 252,
+      "tipoconcepto": "D",
+      "descripcion": "Zafy1"
+    },
+    {
+      "numeroconcepto": 178,
+      "tipoconcepto": "D",
+      "descripcion": "faltas injustificada"
+    },
+    {
+      "numeroconcepto": 238,
+      "tipoconcepto": "P",
+      "descripcion": "Dev. ispt"
+    },
+    {
+      "numeroconcepto": 254,
+      "tipoconcepto": "D",
+      "descripcion": "Cuota Especial 2"
+    },
+    {
+      "numeroconcepto": 239,
+      "tipoconcepto": "P",
+      "descripcion": "Material de Construccion"
+    },
+    {
+      "numeroconcepto": 255,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo Ahorro sindicato  3"
+    },
+    {
+      "numeroconcepto": 240,
+      "tipoconcepto": "P",
+      "descripcion": "Salarios caidos"
+    },
+    {
+      "numeroconcepto": 241,
+      "tipoconcepto": "P",
+      "descripcion": "Compensacion NR"
+    },
+    {
+      "numeroconcepto": 256,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo Ahorro sindicado 5"
+    },
+    {
+      "numeroconcepto": 242,
+      "tipoconcepto": "P",
+      "descripcion": "Pago marcha"
+    },
+    {
+      "numeroconcepto": 257,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo Ahorro sindicato 5"
+    },
+    {
+      "numeroconcepto": 258,
+      "tipoconcepto": "D",
+      "descripcion": "Desc. Caja ahorro 2"
+    },
+    {
+      "numeroconcepto": 99,
+      "tipoconcepto": "O",
+      "descripcion": "Fondo de ahorro (acumulado)"
+    },
+    {
+      "numeroconcepto": 259,
+      "tipoconcepto": "D",
+      "descripcion": "Ret. Pmo. Fondo de Ahorro Liquidaciones"
+    },
+    {
+      "numeroconcepto": 260,
+      "tipoconcepto": "D",
+      "descripcion": "Boletos"
+    },
+    {
+      "numeroconcepto": 243,
+      "tipoconcepto": "P",
+      "descripcion": "Becas"
+    },
+    {
+      "numeroconcepto": 244,
+      "tipoconcepto": "P",
+      "descripcion": "Uniforme"
+    },
+    {
+      "numeroconcepto": 245,
+      "tipoconcepto": "P",
+      "descripcion": "Dev. Caja de Ahorro"
+    },
+    {
+      "numeroconcepto": 261,
+      "tipoconcepto": "D",
+      "descripcion": "Ptmo. fondo de ahorro6"
+    },
+    {
+      "numeroconcepto": 262,
+      "tipoconcepto": "D",
+      "descripcion": "Seguro de Gastos Medicos"
+    },
+    {
+      "numeroconcepto": 263,
+      "tipoconcepto": "D",
+      "descripcion": "Boletos Palenque"
+    },
+    {
+      "numeroconcepto": 264,
+      "tipoconcepto": "D",
+      "descripcion": "Aparatos Ortopedicos"
+    },
+    {
+      "numeroconcepto": 265,
+      "tipoconcepto": "D",
+      "descripcion": "Otro Descuento"
+    },
+    {
+      "numeroconcepto": 266,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo caja de ahorro 7"
+    },
+    {
+      "numeroconcepto": 246,
+      "tipoconcepto": "P",
+      "descripcion": "Dia del Bombero"
+    },
+    {
+      "numeroconcepto": 267,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo Mat Saldos Pendientes"
+    },
+    {
+      "numeroconcepto": 268,
+      "tipoconcepto": "D",
+      "descripcion": "Ptmo. fondo de ahorro7"
+    },
+    {
+      "numeroconcepto": 269,
+      "tipoconcepto": "D",
+      "descripcion": "Boletos Box"
+    },
+    {
+      "numeroconcepto": 247,
+      "tipoconcepto": "P",
+      "descripcion": "Aguinaldo Comp"
+    },
+    {
+      "numeroconcepto": 248,
+      "tipoconcepto": "P",
+      "descripcion": "Fondo Ahorro"
+    },
+    {
+      "numeroconcepto": 270,
+      "tipoconcepto": "D",
+      "descripcion": "SAMS"
+    },
+    {
+      "numeroconcepto": 249,
+      "tipoconcepto": "P",
+      "descripcion": "Aguinaldo NR"
+    },
+    {
+      "numeroconcepto": 250,
+      "tipoconcepto": "P",
+      "descripcion": "PRIMA VAC NR"
+    },
+    {
+      "numeroconcepto": 251,
+      "tipoconcepto": "P",
+      "descripcion": "Ingresos Propios"
+    },
+    {
+      "numeroconcepto": 100,
+      "tipoconcepto": "O",
+      "descripcion": "Aportacion ISSSTE"
+    },
+    {
+      "numeroconcepto": 271,
+      "tipoconcepto": "D",
+      "descripcion": "FOMEPADE"
+    },
+    {
+      "numeroconcepto": 272,
+      "tipoconcepto": "D",
+      "descripcion": "Juan Gabriel"
+    },
+    {
+      "numeroconcepto": 273,
+      "tipoconcepto": "D",
+      "descripcion": "JULION"
+    },
+    {
+      "numeroconcepto": 274,
+      "tipoconcepto": "D",
+      "descripcion": "Banda MS"
+    },
+    {
+      "numeroconcepto": 275,
+      "tipoconcepto": "D",
+      "descripcion": "REMY VALENZUELA"
+    },
+    {
+      "numeroconcepto": 276,
+      "tipoconcepto": "D",
+      "descripcion": "Acabatelo"
+    },
+    {
+      "numeroconcepto": 277,
+      "tipoconcepto": "D",
+      "descripcion": "El BEBETO"
+    },
+    {
+      "numeroconcepto": 278,
+      "tipoconcepto": "D",
+      "descripcion": "Fidel Rueda"
+    },
+    {
+      "numeroconcepto": 279,
+      "tipoconcepto": "D",
+      "descripcion": "Rifa Sindicato"
+    },
+    {
+      "numeroconcepto": 280,
+      "tipoconcepto": "D",
+      "descripcion": "Recoditos"
+    },
+    {
+      "numeroconcepto": 281,
+      "tipoconcepto": "D",
+      "descripcion": "Abono TSM"
+    },
+    {
+      "numeroconcepto": 282,
+      "tipoconcepto": "D",
+      "descripcion": "Mimoso"
+    },
+    {
+      "numeroconcepto": 283,
+      "tipoconcepto": "D",
+      "descripcion": "Las Noches"
+    },
+    {
+      "numeroconcepto": 284,
+      "tipoconcepto": "D",
+      "descripcion": "Caja de ahorro5"
+    },
+    {
+      "numeroconcepto": 285,
+      "tipoconcepto": "D",
+      "descripcion": "Ptmo. caja de ahorro6"
+    },
+    {
+      "numeroconcepto": 286,
+      "tipoconcepto": "D",
+      "descripcion": "FOMEPADE 286"
+    },
+    {
+      "numeroconcepto": 287,
+      "tipoconcepto": "D",
+      "descripcion": "Best Price"
+    },
+    {
+      "numeroconcepto": 288,
+      "tipoconcepto": "D",
+      "descripcion": "ISR Prima Vac"
+    },
+    {
+      "numeroconcepto": 252,
+      "tipoconcepto": "P",
+      "descripcion": "Capacitacion"
+    },
+    {
+      "numeroconcepto": 289,
+      "tipoconcepto": "D",
+      "descripcion": "Boletos Lucha Libre"
+    },
+    {
+      "numeroconcepto": 16,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo infonavit (CF)"
+    },
+    {
+      "numeroconcepto": 290,
+      "tipoconcepto": "D",
+      "descripcion": "Servicio MS"
+    },
+    {
+      "numeroconcepto": 291,
+      "tipoconcepto": "D",
+      "descripcion": "Sancion"
+    },
+    {
+      "numeroconcepto": 294,
+      "tipoconcepto": "D",
+      "descripcion": "Reintegro de ISR retenido en exceso"
+    },
+    {
+      "numeroconcepto": 293,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo Infonavit (vsm)_"
+    },
+    {
+      "numeroconcepto": 15,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo infonavit (FD)"
+    },
+    {
+      "numeroconcepto": 102,
+      "tipoconcepto": "D",
+      "descripcion": "ISR Retenido de Ejercicio Vigente"
+    },
+    {
+      "numeroconcepto": 103,
+      "tipoconcepto": "D",
+      "descripcion": "Reintegro ISR en exceso de ejercicio ant"
+    },
+    {
+      "numeroconcepto": 253,
+      "tipoconcepto": "P",
+      "descripcion": "Beca Universidad"
+    },
+    {
+      "numeroconcepto": 254,
+      "tipoconcepto": "P",
+      "descripcion": "Programa de mejora FORTASEG 2019"
+    },
+    {
+      "numeroconcepto": 50,
+      "tipoconcepto": "D",
+      "descripcion": "Reintegro de ISR retenido en exceso"
+    },
+    {
+      "numeroconcepto": 71,
+      "tipoconcepto": "D",
+      "descripcion": "Ajuste en Subsidio para el empleo"
+    },
+    {
+      "numeroconcepto": 75,
+      "tipoconcepto": "D",
+      "descripcion": "Subs entregado que no correspondia"
+    },
+    {
+      "numeroconcepto": 104,
+      "tipoconcepto": "D",
+      "descripcion": "ISR de ajuste mensual"
+    },
+    {
+      "numeroconcepto": 105,
+      "tipoconcepto": "D",
+      "descripcion": "ISR ajustado por subsidio"
+    },
+    {
+      "numeroconcepto": 106,
+      "tipoconcepto": "D",
+      "descripcion": "Reintegro ISR retenido de mas"
+    },
+    {
+      "numeroconcepto": 107,
+      "tipoconcepto": "D",
+      "descripcion": "Ajuste al Subsidio Causado"
+    },
+    {
+      "numeroconcepto": 32,
+      "tipoconcepto": "D",
+      "descripcion": "Subs al Empleo acreditado"
+    },
+    {
+      "numeroconcepto": 255,
+      "tipoconcepto": "P",
+      "descripcion": "Retroactivo FORTASEG"
+    },
+    {
+      "numeroconcepto": 295,
+      "tipoconcepto": "D",
+      "descripcion": "Donativo por COVID-19"
+    },
+    {
+      "numeroconcepto": 300,
+      "tipoconcepto": "D",
+      "descripcion": "Intereses Prestamo F.A."
+    },
+    {
+      "numeroconcepto": 43,
+      "tipoconcepto": "D",
+      "descripcion": "I.S.R. Art174"
+    },
+    {
+      "numeroconcepto": 478,
+      "tipoconcepto": "D",
+      "descripcion": "Retencion Juicio Ejecutivo Mercantil"
+    },
+    {
+      "numeroconcepto": 479,
+      "tipoconcepto": "D",
+      "descripcion": "Aportacion para riesgo"
+    },
+    {
+      "numeroconcepto": 101,
+      "tipoconcepto": "O",
+      "descripcion": "Aportacion para riesgo (acumulado)"
+    },
+    {
+      "numeroconcepto": 301,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo Tesoreria"
+    },
+    {
+      "numeroconcepto": 302,
+      "tipoconcepto": "D",
+      "descripcion": "Descuento Optica"
+    },
+    {
+      "numeroconcepto": 480,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo aportacion para riesgo2022-2025"
+    },
+    {
+      "numeroconcepto": 481,
+      "tipoconcepto": "D",
+      "descripcion": "Intereses prestamo aportacion riesgo"
+    },
+    {
+      "numeroconcepto": 378,
+      "tipoconcepto": "D",
+      "descripcion": "Intereses Prestamo Caja de Ahorro"
+    },
+    {
+      "numeroconcepto": 379,
+      "tipoconcepto": "D",
+      "descripcion": "Intereses Prestamo Caja de Ahorro II"
+    },
+    {
+      "numeroconcepto": 482,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo aportacion para riesgo22-25 II"
+    },
+    {
+      "numeroconcepto": 483,
+      "tipoconcepto": "D",
+      "descripcion": "Intereses prestamo aportacion riesgo II"
+    },
+    {
+      "numeroconcepto": 303,
+      "tipoconcepto": "D",
+      "descripcion": "Caja de ahorro especial"
+    },
+    {
+      "numeroconcepto": 484,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo aportacion para riesgo22-25 III"
+    },
+    {
+      "numeroconcepto": 485,
+      "tipoconcepto": "D",
+      "descripcion": "Intereses prestamo aportacion riesgo III"
+    },
+    {
+      "numeroconcepto": 380,
+      "tipoconcepto": "D",
+      "descripcion": "Intereses Prestamo Caja de Ahorro III"
+    },
+    {
+      "numeroconcepto": 486,
+      "tipoconcepto": "D",
+      "descripcion": "Prestamo aportacion para riesgo22-25 IV"
+    },
+    {
+      "numeroconcepto": 487,
+      "tipoconcepto": "D",
+      "descripcion": "Intereses prestamo aportacion riesgo IV"
+    },
+    {
+      "numeroconcepto": 490,
+      "tipoconcepto": "D",
+      "descripcion": "Muebles GALA"
+    },
+    {
+      "numeroconcepto": 491,
+      "tipoconcepto": "D",
+      "descripcion": "Muebles GALA 02"
+    },
+    {
+      "numeroconcepto": 492,
+      "tipoconcepto": "D",
+      "descripcion": "Muebles GALA 03"
+    },
+    {
+      "numeroconcepto": 493,
+      "tipoconcepto": "D",
+      "descripcion": "Muebles GALA 04"
+    },
+    {
+      "numeroconcepto": 494,
+      "tipoconcepto": "D",
+      "descripcion": "Muebles GALA 05"
+    },
+    {
+      "numeroconcepto": 256,
+      "tipoconcepto": "P",
+      "descripcion": "Intereses ganados aportacion para riesgo"
+    },
+    {
+      "numeroconcepto": 257,
+      "tipoconcepto": "P",
+      "descripcion": "Intereses ganados caja de ahorro"
+    },
+    {
+      "numeroconcepto": 258,
+      "tipoconcepto": "P",
+      "descripcion": "Aportacion para riesgo dev"
+    }
+  ]

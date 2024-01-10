@@ -1,0 +1,44 @@
+
+
+<!doctype html>
+<html>
+<head>
+
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <title>ENTIDAD</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+  
+  <div class="flex flex-col  items-center h-screen">
+        <div class="mt-10 p-40 border shadow-md">
+            <img class="w-96 h-100" src="assets/logo-gpd.png" alt="">
+            <h1 class=" mt-2 font-bold text-center text-4xl">Recursos Humanos</h1>
+            <div class=" mt-6 flex items-center mx-auto w-fit h-fit p-1 ">
+                <label for="fileInput" class="relative cursor-pointer bg-blue-500 rounded-md font-medium text-white shadow-md py-2 px-4 inline-flex items-center">
+                  <span id="fileLabel">Seleccionar Archivo</span>
+                  <input id="fileInput" name="fileInput" type="file" class="sr-only" onchange="updateFileName(this)">
+                </label>
+              </div>
+              <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+              <script src="https://cdn.sheetjs.com/xlsx-0.20.1/package/dist/xlsx.full.min.js"></script>
+              <script src="https://cdn.jsdelivr.net/npm/file-saver"></script>
+              <script src="https://cdnjs.cloudflare.com/ajax/libs/exceljs/4.3.0/exceljs.min.js"></script>
+              <script type="module" src="scripts/index.js"></script>
+              <script>
+                function updateFileName(input) {
+                  const fileLabel = document.getElementById('fileLabel');
+                  if (input.files.length > 0) {
+                    fileLabel.textContent = input.files[0].name;
+                  } else {
+                    fileLabel.textContent = 'Seleccionar Archivo';
+                  }
+                }
+              </script>
+               </div>
+    </div>
+    
+</body>
+</html>
