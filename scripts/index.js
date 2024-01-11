@@ -49,11 +49,21 @@ fileInput.addEventListener('change', async (event) => {
                         
                       
                        if (limitCopy== 0) {
-                        const descripcion = myData.filter(json => json.descripcion != cell.value);
-                        
-                        if (descripcion.length > 0) {
-                            myData.push({tipoconcepto:'N',descripcion:cell.value})
-                            addItemJson(cell.value, 'N');
+                        const descripcion = myData.filter(json => {
+                            // Verificar si cell.value existe en myData
+                            return myData.some(item => item.descripcion.trim() === cell.value.trim());
+                        });
+                                                
+                        if (descripcion.length === 0 && cell.value !='Código'&& cell.value !='Empleado' && cell.value !='*TOTAL* *PERCEPCIONES*'
+                        && cell.value !='*Otras* *Percepciones*'  && cell.value !='*TOTAL* *DEDUCCIONES*'  && cell.value !='*Otras* *Deducciones*'
+                        && cell.value !='*NETO*'
+                        ) {
+                            noFound.innerHTML+= `
+                            <span class="bg-yellow-200 rounded-md mt-2 mb-2  text-xs shadow-md text-black text-center p-2 h-full">
+                                ${cell.value}
+                            </span>
+                            `
+                            console.warn(cell.value)
                         }
                         
                         titles.push(cell.value)   
